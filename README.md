@@ -18,3 +18,6 @@ Paste the video URL into the URL field. Select the format (MP3 or MP4) using the
 
 # Attention
 This tool is still under development. You can use it for free, but some features might still be updated or enhanced.
+
+# To Download EXE 
+https://drive.google.com/file/d/1oaYK9SbAE2WNcaScUTZS2nAtQtTMvBx2
